@@ -67,9 +67,9 @@ In the given project we will be developing a SQL Database which will help users 
 
 ## Team Members
 
-* Nachiketh Kuppa Moger BI19ET027
-* Sumukesh S 1  BI19ET027
-* Rithik C   BI19ET035
-* Thejas K N BI19ET045
+* Nachiketh Moger 1BI19ET027
+* Sumukesh S      1BI19ET027
+* Rithik C        1BI19ET035
+* Thejas K N      1BI19ET045
 
 credits: Some of the photos and informations taken from internet 
